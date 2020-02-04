@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "kyp"
+echo "kyp 3a /\eBcku!"
 
 exit 0
 
